@@ -1,2 +1,3 @@
 new git test
 to test pull
+to test pull --rebase
