@@ -1,0 +1,4 @@
+new git test
+to test pull
+to test pull --rebase
+to test commit --amend
