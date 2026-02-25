@@ -1,2 +1,1 @@
-git test modified
-to test pull --rebase
+diff test
